@@ -5,11 +5,10 @@ For running this app is required to run server, included in this repo. Backend f
 Backend: [todo-server](./server/README.md)
 
 ![search](main.jpg)
-*Responsive and simple*<br>
-
+*Responsive and simple*<br><br>
 
 ![search](search.jpg)
-*Searching among tasks*<br>
+*Searching among tasks*<br><br>
 
 ![search](pagination.jpg)
-*Auto-pagination*<br>
+*Auto-pagination*<br><br>
